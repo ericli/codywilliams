@@ -1,6 +1,4 @@
-# Lip Trading Platform
-
-To track momentum swings in stocks and trade the corresponding option
+# wip polymarket 
 
 ## Installation:
 
